@@ -1,11 +1,11 @@
 <?php
 define('SKIN_LANGUAGE', 'skins_en');
 
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'cutout.dathost.net');
 define('DB_PORT', '3306');
-define('DB_NAME', '');
-define('DB_USER', '');
-define('DB_PASS', '');
+define('DB_NAME', 'Z8XQZUSW_dAvmmST');
+define('DB_USER', '67c5d0654496fdd02f9a6493');
+define('DB_PASS', 'is4dntmW8xk');
 
 define('WEB_STYLE_DARK', true);
 
